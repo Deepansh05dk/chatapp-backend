@@ -85,4 +85,4 @@ app.get("/messages/sync", (req, res) => {
 });
 
 // listen
-app.listen(port, () => console.log("listening on localhost"));
+app.listen(port, () => console.log("listening"));
